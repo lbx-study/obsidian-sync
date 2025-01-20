@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -170,6 +169,7 @@
   },
   "active": "a8ab6fa4fc31187e",
   "lastOpenFiles": [
+    "Hello",
     "Hi.md",
     "Ribosome.md",
     "README.md",
