@@ -11,10 +11,14 @@
             "id": "a8ab6fa4fc31187e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hi.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hi"
             }
           }
         ]
@@ -132,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Hi.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hi"
             }
           },
           {
@@ -165,8 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a46de44bd4f53851",
+  "active": "a8ab6fa4fc31187e",
   "lastOpenFiles": [
+    "Hi.md",
+    "Hello",
     "Ribosome.md",
     "hi",
     "New Folder"
