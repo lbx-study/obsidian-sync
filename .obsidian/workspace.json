@@ -11,14 +11,10 @@
             "id": "a8ab6fa4fc31187e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hi"
+              "title": "New tab"
             }
           }
         ]
@@ -171,8 +167,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200fb36bf43a7794",
+  "active": "a8ab6fa4fc31187e",
   "lastOpenFiles": [
+    "Hi.md",
     "Ribosome.md",
     "README.md",
     "Lecture 06.md",
@@ -191,7 +188,6 @@
     "Academics/Computer Science",
     "Academics/C Language",
     "Academics",
-    "Hi.md",
     "Hello",
     "hi",
     "New Folder"
