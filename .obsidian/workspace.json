@@ -153,11 +153,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "200fb36bf43a7794",
   "lastOpenFiles": [
+    "hi",
     "New Folder"
   ]
 }
