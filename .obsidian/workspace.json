@@ -11,10 +11,14 @@
             "id": "9bf7889ce4836394",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CHM-114/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction"
             }
           }
         ]
@@ -143,9 +147,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CHM-114/Introduction.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Introduction"
             }
           }
         ],
@@ -169,6 +175,8 @@
   },
   "active": "9bf7889ce4836394",
   "lastOpenFiles": [
+    "BIO-102/Untitled.md",
+    "CHM-114/Introduction.md",
     "Untitled.md",
     "ECS-102",
     "PHY-106",
