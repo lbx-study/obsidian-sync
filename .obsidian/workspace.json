@@ -132,29 +132,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hi.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Hi"
-            }
-          },
-          {
-            "id": "a46de44bd4f53851",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a46de44bd4f53851",
+  "active": "200fb36bf43a7794",
   "lastOpenFiles": [
     "Untitled.md",
     "ECS-102",
