@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2409bd236be17e41",
+        "id": "997e0e83b322a29c",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ab6fa4fc31187e",
+            "id": "d11d6aef56ed3a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hi.md",
+                "file": "hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hi"
+              "title": "hello"
+            }
+          },
+          {
+            "id": "940bfff52f58f325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8ab6fa4fc31187e",
+  "active": "940bfff52f58f325",
   "lastOpenFiles": [
+    "hello.md",
+    "test.md",
     "Hi.md",
     "Hello",
     "Ribosome.md",
