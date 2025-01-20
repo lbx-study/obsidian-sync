@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2409bd236be17e41",
+        "id": "3d76735de421163a",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ab6fa4fc31187e",
+            "id": "111662eff5d116f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Biology/Ribosomes.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Ribosomes"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "23c359cbb118ffd7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,16 +187,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a46de44bd4f53851",
+  "active": "23c359cbb118ffd7",
   "lastOpenFiles": [
-    "New File.md",
+    "conflict-files-obsidian-git.md",
     "Biology/Ribosomes.md",
+    "README.md",
+    "CHM-114/Introduction.md",
+    "CHM-114",
+    "BIO-102/Untitled.md",
+    "BIO-102",
+    "New File.md",
     "Biology",
     "Testing out new folder",
     "Hello",
     "Hi.md",
     "Ribosome.md",
-    "README.md",
     "Lecture 06.md",
     "Enviromental Sciences/Lecture 02.md",
     "Enviromental Sciences",
@@ -195,8 +215,6 @@
     "Academics/Ribosome.md",
     "Academics/Lecture 06.md",
     "Academics/Enviromental Sciences",
-    "Academics/Computer Science",
-    "Academics/C Language",
-    "Academics"
+    "Academics/Computer Science"
   ]
 }
