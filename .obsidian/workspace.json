@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2409bd236be17e41",
+        "id": "18a118d8eaa8d899",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ab6fa4fc31187e",
+            "id": "9bf7889ce4836394",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,6 +170,12 @@
   "active": "200fb36bf43a7794",
   "lastOpenFiles": [
     "Untitled",
+    "PHY-106",
+    "EES-102",
+    "CHM-114",
+    "CHM-112",
+    "Untitled.md",
+    "BIO-102",
     "Enviroment",
     "Computer Science",
     "Biology/Ribosomes.md",
@@ -183,15 +189,10 @@
     "Computer Science/Lecture 03.md",
     "Computer Science",
     "C Language/Chapter 03 - Conditional Instructions.md",
-    "C Language",
     "Academics/Enviromental Sciences/Lecture 02.md",
     "Academics/Computer Science/Lecture 03.md",
     "Academics/C Language/Chapter 03 - Conditional Instructions.md",
     "Academics/Ribosome.md",
-    "Academics/Lecture 06.md",
-    "Academics/Enviromental Sciences",
-    "Academics/Computer Science",
-    "Academics/C Language",
-    "Academics"
+    "Academics/Lecture 06.md"
   ]
 }
