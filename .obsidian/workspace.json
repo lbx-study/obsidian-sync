@@ -11,14 +11,10 @@
             "id": "a8ab6fa4fc31187e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Ribosomes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ribosomes"
+              "title": "New tab"
             }
           }
         ]
@@ -173,11 +169,10 @@
   },
   "active": "a8ab6fa4fc31187e",
   "lastOpenFiles": [
-    "New File.md",
+    "Enviroment",
+    "Computer Science",
     "Biology/Ribosomes.md",
     "Biology",
-    "Testing out new folder",
-    "Hello",
     "Hi.md",
     "Ribosome.md",
     "README.md",
@@ -196,6 +191,7 @@
     "Academics/Enviromental Sciences",
     "Academics/Computer Science",
     "Academics/C Language",
-    "Academics"
+    "Academics",
+    "Hello"
   ]
 }
