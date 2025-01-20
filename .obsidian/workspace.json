@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -171,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8ab6fa4fc31187e",
+  "active": "a46de44bd4f53851",
   "lastOpenFiles": [
     "New File.md",
     "Biology/Ribosomes.md",
