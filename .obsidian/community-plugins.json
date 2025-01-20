@@ -1,5 +1,7 @@
 [
   "github-sync",
   "yet-another-obsidian-synchronizer",
-  "obsidian-git"
+  "obsidian-git",
+  "code-emitter",
+  "obsidian-style-settings"
 ]
