@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3d76735de421163a",
+        "id": "47764740db68b4b0",
         "type": "tabs",
         "children": [
           {
-            "id": "111662eff5d116f7",
+            "id": "6f081b99f549bd65",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "23c359cbb118ffd7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -187,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c359cbb118ffd7",
+  "active": "a46de44bd4f53851",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Biology/Ribosomes.md",
