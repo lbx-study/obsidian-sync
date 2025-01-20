@@ -136,19 +136,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "61d580b9cce59cdb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,6 +155,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200fb36bf43a7794",
+  "active": "f0e92b665689d581",
   "lastOpenFiles": []
 }
