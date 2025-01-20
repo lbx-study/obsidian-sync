@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHM-114/Introduction.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "README"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHM-114/Introduction.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of README"
             }
           }
         ],
@@ -175,8 +174,9 @@
   },
   "active": "9bf7889ce4836394",
   "lastOpenFiles": [
-    "BIO-102/Untitled.md",
     "CHM-114/Introduction.md",
+    "README.md",
+    "BIO-102/Untitled.md",
     "Untitled.md",
     "ECS-102",
     "PHY-106",
@@ -190,7 +190,6 @@
     "Biology",
     "Hi.md",
     "Ribosome.md",
-    "README.md",
     "Lecture 06.md",
     "Enviromental Sciences/Lecture 02.md",
     "Enviromental Sciences",
