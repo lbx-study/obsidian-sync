@@ -43,6 +43,16 @@
             }
           },
           {
+            "id": "3b9756e020a4d0c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "3c18cd7be50b90e6",
             "type": "leaf",
             "state": {
@@ -69,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200fb36bf43a7794",
+  "active": "9bf7889ce4836394",
   "lastOpenFiles": [
     "Untitled.md",
     "ECS-102",
