@@ -172,8 +172,8 @@
     }
   ],
   "selectionProductMenuConfig": [
-    "color",
     "copy-format",
+    "color",
     "display"
   ],
   "writeFileProductMenuConfig": [

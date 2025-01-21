@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Enviroment/Lecture3_EES102.pdf",
-                "page": 11,
+                "page": 14,
                 "left": -32,
-                "top": 10,
+                "top": 159,
                 "zoom": 0.47578125000000004
               },
               "icon": "lucide-file-text",
@@ -198,10 +198,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "46657bd90dea420b",
+  "active": "6f081b99f549bd65",
   "lastOpenFiles": [
-    "Enviroment/Lecture3_EES102.pdf",
     "Enviroment/Lecture 3.md",
+    "Enviroment/Lecture3_EES102.pdf",
     "Untitled.md",
     "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
     "Biology/Bactrial Cell Wall.md",
