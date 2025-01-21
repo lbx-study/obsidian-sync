@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Enviroment/Lecture 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "98cf92f2d2b985eb",
