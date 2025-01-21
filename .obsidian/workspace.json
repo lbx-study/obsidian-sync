@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Enviroment/Slides/Lecture4_EES102.pdf",
-                "page": 2,
-                "left": -32,
-                "top": 363,
-                "zoom": 0.47578125
+                "page": 11,
+                "left": -42,
+                "top": 247,
+                "zoom": 0.3585937500000001
               },
               "icon": "lucide-file-text",
               "title": "Lecture4_EES102"
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
