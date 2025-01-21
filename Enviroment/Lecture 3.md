@@ -123,6 +123,7 @@
     
     - USA: Allocates 0.2% GDP for development aid.
     - **UNDP Estimates:** $135 billion/year required to abolish extreme poverty and infectious diseases.
+    - Military spending equals total income of half the worl
 - **Perspective:**
     
     - Comparable to $120 billion/year U.S. oil subsidies.
