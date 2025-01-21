@@ -3,3 +3,4 @@
 
 ![[Peptidoglycan and endotoxin for google classroom.pdf#page=2&rect=67,168,497,505&color=note|Peptidoglycan and endotoxin for google classroom, p.2]]
 
+![[Peptidoglycan and endotoxin for google classroom.pdf#page=2&rect=584,168,919,453|Peptidoglycan and endotoxin for google classroom, p.2]]
