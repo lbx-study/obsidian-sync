@@ -123,7 +123,8 @@
     
     - USA: Allocates 0.2% GDP for development aid.
     - **UNDP Estimates:** $135 billion/year required to abolish extreme poverty and infectious diseases.
-    - Military spending equals total income of half the worl
+    - Military spending equals total income of half the world people.
+    - A single large aircraft carrier equals 10 years of human development aid
 - **Perspective:**
     
     - Comparable to $120 billion/year U.S. oil subsidies.
