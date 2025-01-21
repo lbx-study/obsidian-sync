@@ -13,7 +13,9 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf"
+                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Peptidoglycan and endotoxin for google classroom"
@@ -25,7 +27,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf"
+                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
+                "page": 1,
+                "left": -15,
+                "top": 19,
+                "zoom": 0.9921875000000002
               },
               "icon": "lucide-file-text",
               "title": "Peptidoglycan and endotoxin for google classroom"
@@ -88,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -180,7 +187,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "a93060fcfedf85e4",
