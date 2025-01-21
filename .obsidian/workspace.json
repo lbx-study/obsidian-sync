@@ -11,30 +11,30 @@
             "id": "6f081b99f549bd65",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Enviroment/Lecture3_EES102.pdf",
+                "page": 10,
+                "left": -15,
+                "top": 205,
+                "zoom": 0.9921875000000002
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture3_EES102"
+            }
+          },
+          {
+            "id": "46657bd90dea420b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Enviroment/Lecture 3.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lecture 3"
-            }
-          },
-          {
-            "id": "a93060fcfedf85e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
-                "page": 1,
-                "left": -20,
-                "top": 8,
-                "zoom": 0.7578125000000001
-              },
-              "icon": "lucide-file-text",
-              "title": "Peptidoglycan and endotoxin for google classroom"
             }
           }
         ]
@@ -194,8 +194,10 @@
   },
   "active": "6f081b99f549bd65",
   "lastOpenFiles": [
-    "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
     "Enviroment/Lecture 3.md",
+    "Enviroment/Lecture3_EES102.pdf",
+    "Untitled.md",
+    "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
     "Biology/Bactrial Cell Wall.md",
     "Bactrial Cell Wall.md",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
@@ -223,7 +225,6 @@
     "Academics/Computer Science/Lecture 03.md",
     "Academics/C Language/Chapter 03 - Conditional Instructions.md",
     "Academics/Ribosome.md",
-    "Academics/Lecture 06.md",
-    "Academics/Enviromental Sciences"
+    "Academics/Lecture 06.md"
   ]
 }
