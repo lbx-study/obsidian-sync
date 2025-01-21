@@ -1,2 +1,3 @@
 - co translational translocation
-- post tran
+- post translational modification
+- 
