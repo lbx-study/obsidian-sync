@@ -11,17 +11,28 @@
             "id": "6f081b99f549bd65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biology/Endoplasmic Reticulum and Golgi Complex.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Endoplasmic Reticulum and Golgi Complex"
+              "icon": "lucide-file-text",
+              "title": "Peptidoglycan and endotoxin for google classroom"
+            }
+          },
+          {
+            "id": "a93060fcfedf85e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Peptidoglycan and endotoxin for google classroom"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f081b99f549bd65",
+  "active": "a93060fcfedf85e4",
   "lastOpenFiles": [
+    "Bactrial Cell Wall.md",
+    "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
     "conflict-files-obsidian-git.md",
     "Biology/Ribosomes.md",
@@ -201,7 +214,6 @@
     "Academics/C Language/Chapter 03 - Conditional Instructions.md",
     "Academics/Ribosome.md",
     "Academics/Lecture 06.md",
-    "Academics/Enviromental Sciences",
-    "Academics/Computer Science"
+    "Academics/Enviromental Sciences"
   ]
 }
