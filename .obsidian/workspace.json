@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Enviroment/Slides/Lecture4_EES102.pdf",
-                "page": 1,
+                "page": 9,
                 "left": -32,
-                "top": 543,
+                "top": 61,
                 "zoom": 0.47578125
               },
               "icon": "lucide-file-text",
@@ -198,10 +198,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "59e78553f0593688",
+  "active": "b41681ae887d1a1a",
   "lastOpenFiles": [
-    "Lecture 04.md",
     "Enviroment/Slides/Lecture4_EES102.pdf",
+    "Lecture 04.md",
     "My Notes/Untitled.md",
     "Enviroment/Lecture2_EES102.pdf",
     "My Notes",
