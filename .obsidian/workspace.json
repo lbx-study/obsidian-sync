@@ -11,10 +11,16 @@
             "id": "59e78553f0593688",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Enviroment/Slides/Lecture4_EES102.pdf",
+                "page": 1,
+                "left": -20,
+                "top": 544,
+                "zoom": 0.7578125
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture4_EES102"
             }
           }
         ]
