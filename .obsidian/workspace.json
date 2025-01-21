@@ -37,8 +37,7 @@
               "title": "Peptidoglycan and endotoxin for google classroom"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +191,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a93060fcfedf85e4",
+  "active": "6f081b99f549bd65",
   "lastOpenFiles": [
-    "Bactrial Cell Wall.md",
     "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
+    "Bactrial Cell Wall.md",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
     "conflict-files-obsidian-git.md",
     "Biology/Ribosomes.md",
