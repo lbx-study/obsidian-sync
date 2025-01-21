@@ -15,9 +15,9 @@
               "state": {
                 "file": "Enviroment/Lecture3_EES102.pdf",
                 "page": 11,
-                "left": -42,
-                "top": 7,
-                "zoom": 0.3585937500000001
+                "left": -32,
+                "top": 10,
+                "zoom": 0.47578125000000004
               },
               "icon": "lucide-file-text",
               "title": "Lecture3_EES102"
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
