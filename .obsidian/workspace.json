@@ -28,10 +28,10 @@
               "type": "pdf",
               "state": {
                 "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
-                "page": 2,
-                "left": -15,
-                "top": 547,
-                "zoom": 0.9921875000000002
+                "page": 1,
+                "left": -20,
+                "top": 4,
+                "zoom": 0.7578125
               },
               "icon": "lucide-file-text",
               "title": "Peptidoglycan and endotoxin for google classroom"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "98cf92f2d2b985eb",
