@@ -11,14 +11,14 @@
             "id": "6f081b99f549bd65",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Bactrial Cell Wall.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Peptidoglycan and endotoxin for google classroom"
+              "icon": "lucide-file",
+              "title": "Bactrial Cell Wall"
             }
           },
           {
@@ -28,17 +28,16 @@
               "type": "pdf",
               "state": {
                 "file": "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -15,
-                "top": 19,
+                "top": 547,
                 "zoom": 0.9921875000000002
               },
               "icon": "lucide-file-text",
               "title": "Peptidoglycan and endotoxin for google classroom"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +192,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a93060fcfedf85e4",
+  "active": "6f081b99f549bd65",
   "lastOpenFiles": [
-    "Bactrial Cell Wall.md",
     "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
+    "Bactrial Cell Wall.md",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
     "conflict-files-obsidian-git.md",
     "Biology/Ribosomes.md",
