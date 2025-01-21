@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "47764740db68b4b0",
+        "id": "2df9b002f98d964f",
         "type": "tabs",
         "children": [
           {
-            "id": "6f081b99f549bd65",
+            "id": "59e78553f0593688",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Enviroment/Lecture2_EES102.pdf",
-                "page": 1,
-                "left": -20,
-                "top": 544,
-                "zoom": 0.7578125
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture2_EES102"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,8 +171,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6f081b99f549bd65",
+  "active": "59e78553f0593688",
   "lastOpenFiles": [
+    "My Notes/Untitled.md",
+    "Enviroment/Lecture2_EES102.pdf",
+    "My Notes",
+    "Lecture Slides",
     "Enviroment/Lecture3_EES102.pdf",
     "Enviroment/Lecture 3.md",
     "Untitled.md",
@@ -201,11 +199,8 @@
     "Ribosome.md",
     "Lecture 06.md",
     "Enviromental Sciences/Lecture 02.md",
-    "Enviromental Sciences",
     "Computer Science/Lecture 03.md",
-    "Computer Science",
     "C Language/Chapter 03 - Conditional Instructions.md",
-    "C Language",
     "Academics/Enviromental Sciences/Lecture 02.md",
     "Academics/Computer Science/Lecture 03.md",
     "Academics/C Language/Chapter 03 - Conditional Instructions.md",
