@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c36bc02e7c6174",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79ab8487343d09dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/03 Lysosome and vacuole.pdf",
-                "page": 1,
-                "left": -32,
-                "top": 543,
-                "zoom": 0.47578125000000004
-              },
-              "icon": "lucide-file-text",
-              "title": "03 Lysosome and vacuole"
-            }
-          }
-        ]
-      },
-      {
         "id": "033aeed622e7a8a0",
         "type": "tabs",
         "children": [
@@ -198,10 +176,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "79ab8487343d09dc",
+  "active": "de4a7106b84548cb",
   "lastOpenFiles": [
-    "Biology/Short Notes/03 Lysosome and vacuole.md",
     "Biology/03 Lysosome and vacuole.pdf",
+    "Biology/Short Notes/03 Lysosome and vacuole.md",
     "Biology/Short Notes/05 Endoplasmic Eeticulum and Golgi Complex.md",
     "Biology/Short Notes/04 Ribosome.md",
     "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
