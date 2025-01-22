@@ -1,7 +1,3 @@
-### Structured Notes on "Lysosome and Vacuole"
-
----
-
 ### **Lysosomes**
 
 #### **Overview**
