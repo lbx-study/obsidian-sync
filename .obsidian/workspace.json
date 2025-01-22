@@ -11,14 +11,16 @@
             "id": "348845504f71451a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Enviroment/Notes/Lecture 03.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/Lysosome and vacuole for google classroom.pdf",
+                "page": 1,
+                "left": -29,
+                "top": 543,
+                "zoom": 0.52265625
               },
-              "icon": "lucide-file",
-              "title": "Lecture 03"
+              "icon": "lucide-file-text",
+              "title": "Lysosome and vacuole for google classroom"
             }
           }
         ]
@@ -77,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -159,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +178,7 @@
   },
   "active": "348845504f71451a",
   "lastOpenFiles": [
+    "Enviroment/Notes/Lecture 03.md",
     "Enviroment/Notes/Lecture 04.md",
     "Enviroment/Slides/Lecture4_EES102.pdf",
     "My Notes/Untitled.md",
