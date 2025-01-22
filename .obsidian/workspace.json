@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Biology/Ribosome.pdf",
+                "file": "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
                 "page": 1,
-                "left": -23,
-                "top": 543,
-                "zoom": 0.65234375
+                "left": -36,
+                "top": 544,
+                "zoom": 0.41796875000000006
               },
               "icon": "lucide-file-text",
-              "title": "Ribosome"
+              "title": "05 Endoplasmic Reticulum and Golgi Complex"
             }
           }
         ]
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +178,12 @@
   },
   "active": "200fb36bf43a7794",
   "lastOpenFiles": [
+    "Biology/04 Ribosome.pdf",
+    "Biology/Bactrial Cell Wall.md",
     "Biology/03 Lysosome and vacuole.pdf",
     "Biology/02 Peptidoglycan and endotoxin.pdf",
     "Biology/01 Prokaryotic and Eukaryotic.pdf",
-    "Biology/Ribosome.pdf",
-    "Biology/Endoplasmic Reticulum and Golgi Complex.pdf",
+    "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
     "Enviroment/Notes/Lecture 03.md",
     "Enviroment/Notes/Lecture 04.md",
@@ -194,13 +194,11 @@
     "Lecture Slides",
     "Enviroment/Lecture3_EES102.pdf",
     "Enviroment/Lecture 3.md",
-    "Biology/Bactrial Cell Wall.md",
     "Bactrial Cell Wall.md",
     "conflict-files-obsidian-git.md",
     "Biology/Ribosomes.md",
     "README.md",
     "CHM-114/Introduction.md",
-    "CHM-114",
     "BIO-102/Untitled.md",
     "New File.md",
     "Hi.md",
