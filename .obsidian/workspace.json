@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
-                "page": 1,
-                "left": -36,
-                "top": 544,
-                "zoom": 0.4171875
+                "file": "Biology/03 Lysosome and vacuole.pdf",
+                "page": 5,
+                "left": -23,
+                "top": 461,
+                "zoom": 0.65234375
               },
               "icon": "lucide-file-text",
-              "title": "05 Endoplasmic Reticulum and Golgi Complex"
+              "title": "03 Lysosome and vacuole"
             }
           }
         ]
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,12 +179,14 @@
   },
   "active": "200fb36bf43a7794",
   "lastOpenFiles": [
+    "Biology/Untitled.md",
+    "Biology/Short Notes",
+    "Biology/03 Lysosome and vacuole.pdf",
+    "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
     "Biology/04 Ribosome.pdf",
     "Biology/Bactrial Cell Wall.md",
-    "Biology/03 Lysosome and vacuole.pdf",
     "Biology/02 Peptidoglycan and endotoxin.pdf",
     "Biology/01 Prokaryotic and Eukaryotic.pdf",
-    "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
     "Enviroment/Notes/Lecture 03.md",
     "Enviroment/Notes/Lecture 04.md",
@@ -192,7 +195,6 @@
     "Enviroment/Lecture2_EES102.pdf",
     "My Notes",
     "Lecture Slides",
-    "Enviroment/Lecture3_EES102.pdf",
     "Enviroment/Lecture 3.md",
     "Bactrial Cell Wall.md",
     "conflict-files-obsidian-git.md",
