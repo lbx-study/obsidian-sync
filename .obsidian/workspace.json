@@ -11,14 +11,16 @@
             "id": "348845504f71451a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biology/Short Notes/04 Ribosome.md",
-                "mode": "source",
-                "source": false
+                "file": "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
+                "page": 1,
+                "left": -20,
+                "top": 543,
+                "zoom": 0.740625
               },
-              "icon": "lucide-file",
-              "title": "04 Ribosome"
+              "icon": "lucide-file-text",
+              "title": "05 Endoplasmic Reticulum and Golgi Complex"
             }
           }
         ]
@@ -77,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -178,8 +179,8 @@
   },
   "active": "348845504f71451a",
   "lastOpenFiles": [
-    "Biology/04 Ribosome.pdf",
     "Biology/Short Notes/04 Ribosome.md",
+    "Biology/04 Ribosome.pdf",
     "Biology/Short Notes/03 Lysosome and vacuole.md",
     "Biology/03 Lysosome and vacuole.pdf",
     "Biology/Untitled.md",
