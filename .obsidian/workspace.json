@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Biology/Golgi and ER class 21-01-25.pdf",
+                "file": "Biology/Ribosome.pdf",
                 "page": 1,
                 "left": -23,
                 "top": 543,
                 "zoom": 0.65234375
               },
               "icon": "lucide-file-text",
-              "title": "Golgi and ER class 21-01-25"
+              "title": "Ribosome"
             }
           }
         ]
@@ -177,11 +177,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "348845504f71451a",
+  "active": "200fb36bf43a7794",
   "lastOpenFiles": [
+    "Biology/Peptidoglycan and endotoxin.pdf",
+    "Biology/Lysosome and vacuole.pdf",
+    "Biology/Endoplasmic Reticulum and Golgi Complex.pdf",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
-    "Biology/Golgi and ER class 21-01-25.pdf",
-    "Biology/Lysosome and vacuole for google classroom.pdf",
     "Enviroment/Notes/Lecture 03.md",
     "Enviroment/Notes/Lecture 04.md",
     "Enviroment/Slides/Lecture4_EES102.pdf",
@@ -191,7 +192,6 @@
     "Lecture Slides",
     "Enviroment/Lecture3_EES102.pdf",
     "Enviroment/Lecture 3.md",
-    "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
     "Biology/Bactrial Cell Wall.md",
     "Bactrial Cell Wall.md",
     "conflict-files-obsidian-git.md",
