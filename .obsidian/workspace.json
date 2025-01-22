@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Biology/Lysosome and vacuole for google classroom.pdf",
+                "file": "Biology/Golgi and ER class 21-01-25.pdf",
                 "page": 1,
-                "left": -29,
+                "left": -23,
                 "top": 543,
-                "zoom": 0.52265625
+                "zoom": 0.65234375
               },
               "icon": "lucide-file-text",
-              "title": "Lysosome and vacuole for google classroom"
+              "title": "Golgi and ER class 21-01-25"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 435.5
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +179,9 @@
   },
   "active": "348845504f71451a",
   "lastOpenFiles": [
+    "Biology/Endoplasmic Reticulum and Golgi Complex.md",
+    "Biology/Golgi and ER class 21-01-25.pdf",
+    "Biology/Lysosome and vacuole for google classroom.pdf",
     "Enviroment/Notes/Lecture 03.md",
     "Enviroment/Notes/Lecture 04.md",
     "Enviroment/Slides/Lecture4_EES102.pdf",
@@ -190,7 +194,6 @@
     "Biology/Peptidoglycan and endotoxin for google classroom.pdf",
     "Biology/Bactrial Cell Wall.md",
     "Bactrial Cell Wall.md",
-    "Biology/Endoplasmic Reticulum and Golgi Complex.md",
     "conflict-files-obsidian-git.md",
     "Biology/Ribosomes.md",
     "README.md",
@@ -199,8 +202,6 @@
     "BIO-102/Untitled.md",
     "BIO-102",
     "New File.md",
-    "Biology",
-    "Testing out new folder",
     "Hi.md",
     "Ribosome.md",
     "Lecture 06.md",

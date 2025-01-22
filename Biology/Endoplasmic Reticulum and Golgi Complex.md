@@ -1,3 +1,0 @@
-- co translational translocation
-- post translational modification
-- 
