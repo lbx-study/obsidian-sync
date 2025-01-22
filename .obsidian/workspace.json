@@ -11,16 +11,14 @@
             "id": "348845504f71451a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
-                "page": 1,
-                "left": -20,
-                "top": 543,
-                "zoom": 0.740625
+                "file": "Biology/Short Notes/05 Endoplasmic Eeticulum and Golgi Complex.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "05 Endoplasmic Reticulum and Golgi Complex"
+              "icon": "lucide-file",
+              "title": "05 Endoplasmic Eeticulum and Golgi Complex"
             }
           }
         ]
@@ -179,13 +177,14 @@
   },
   "active": "348845504f71451a",
   "lastOpenFiles": [
+    "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
+    "Biology/Short Notes/05 Endoplasmic Eeticulum and Golgi Complex.md",
     "Biology/Short Notes/04 Ribosome.md",
     "Biology/04 Ribosome.pdf",
     "Biology/Short Notes/03 Lysosome and vacuole.md",
     "Biology/03 Lysosome and vacuole.pdf",
     "Biology/Untitled.md",
     "Biology/Short Notes",
-    "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
     "Biology/Bactrial Cell Wall.md",
     "Biology/02 Peptidoglycan and endotoxin.pdf",
     "Biology/01 Prokaryotic and Eukaryotic.pdf",
@@ -212,7 +211,6 @@
     "Computer Science/Lecture 03.md",
     "C Language/Chapter 03 - Conditional Instructions.md",
     "Academics/Enviromental Sciences/Lecture 02.md",
-    "Academics/Computer Science/Lecture 03.md",
-    "Academics/C Language/Chapter 03 - Conditional Instructions.md"
+    "Academics/Computer Science/Lecture 03.md"
   ]
 }
