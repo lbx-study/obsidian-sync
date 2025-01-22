@@ -8,7 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "348845504f71451a",
+            "id": "79ab8487343d09dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/03 Lysosome and vacuole.pdf",
+                "page": 1,
+                "left": -32,
+                "top": 543,
+                "zoom": 0.47578125000000004
+              },
+              "icon": "lucide-file-text",
+              "title": "03 Lysosome and vacuole"
+            }
+          }
+        ]
+      },
+      {
+        "id": "033aeed622e7a8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de4a7106b84548cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,25 +42,8 @@
               "icon": "lucide-file",
               "title": "03 Lysosome and vacuole"
             }
-          },
-          {
-            "id": "79ab8487343d09dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/03 Lysosome and vacuole.pdf",
-                "page": 5,
-                "left": -15,
-                "top": 468,
-                "zoom": 0.9921875000000001
-              },
-              "icon": "lucide-file-text",
-              "title": "03 Lysosome and vacuole"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,11 +201,11 @@
   "active": "79ab8487343d09dc",
   "lastOpenFiles": [
     "Biology/Short Notes/03 Lysosome and vacuole.md",
+    "Biology/03 Lysosome and vacuole.pdf",
     "Biology/Short Notes/05 Endoplasmic Eeticulum and Golgi Complex.md",
     "Biology/Short Notes/04 Ribosome.md",
     "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
     "Biology/04 Ribosome.pdf",
-    "Biology/03 Lysosome and vacuole.pdf",
     "Biology/Untitled.md",
     "Biology/Short Notes",
     "Biology/Bactrial Cell Wall.md",
