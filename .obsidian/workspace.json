@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Short Notes/03 Lysosome and vacuole.md",
-                "mode": "source",
+                "file": "Enviroment/Notes/Lecture 03.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Lysosome and vacuole"
+              "title": "Lecture 03"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -177,12 +178,12 @@
   },
   "active": "de4a7106b84548cb",
   "lastOpenFiles": [
+    "Biology/Short Notes/03 Lysosome and vacuole.md",
     "Physics/PHY-106_Assignment-1_Solution.pdf",
     "Physics/PHY-106_Assignment-1_Solution.pdf.crdownload",
     "Physics/Assignment 01.pdf",
     "Physics/Assignment 01.pdf.crdownload",
     "Biology/03 Lysosome and vacuole.pdf",
-    "Biology/Short Notes/03 Lysosome and vacuole.md",
     "Biology/Short Notes/05 Endoplasmic Eeticulum and Golgi Complex.md",
     "Biology/Short Notes/04 Ribosome.md",
     "Biology/05 Endoplasmic Reticulum and Golgi Complex.pdf",
@@ -195,7 +196,6 @@
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
     "Enviroment/Notes/Lecture 03.md",
     "Enviroment/Notes/Lecture 04.md",
-    "Enviroment/Slides/Lecture4_EES102.pdf",
     "My Notes/Untitled.md",
     "Enviroment/Lecture 3.md",
     "Bactrial Cell Wall.md",

@@ -1,19 +1,3 @@
-### Structured Notes on "Introduction to Environmental Sciences"
-
-#### **Course Details**
-
-- **Course Code:** EES 102
-- **Instructor:** Dr. Shubhi Agrawal, Assistant Professor, Earth and Environmental Sciences, IISER Bhopal
-- **Class Date:** 14-15 January 2025
-
----
-
-### **Key Concepts**
-
-#### **Class Footprint**
-
-- **Biocapacity (Global):** 1.6 gha
-- **World Citizen Footprint:** 2.7 gha
 
 #### **Sustainable Development**
 
