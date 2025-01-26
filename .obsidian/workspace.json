@@ -11,14 +11,16 @@
             "id": "de4a7106b84548cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Enviroment/Notes/Lecture 03.md",
-                "mode": "preview",
-                "source": false
+                "file": "Maths/Slides/Lecture-6.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 276,
+                "zoom": 1.9575013435859276
               },
-              "icon": "lucide-file",
-              "title": "Lecture 03"
+              "icon": "lucide-file-text",
+              "title": "Lecture-6"
             }
           }
         ]
@@ -77,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "98cf92f2d2b985eb",
@@ -178,6 +179,8 @@
   },
   "active": "de4a7106b84548cb",
   "lastOpenFiles": [
+    "Maths/Slides/Lecture-5.pdf",
+    "Enviroment/Notes/Lecture 03.md",
     "Biology/Short Notes/03 Lysosome and vacuole.md",
     "Physics/PHY-106_Assignment-1_Solution.pdf",
     "Physics/PHY-106_Assignment-1_Solution.pdf.crdownload",
@@ -194,7 +197,6 @@
     "Biology/02 Peptidoglycan and endotoxin.pdf",
     "Biology/01 Prokaryotic and Eukaryotic.pdf",
     "Biology/Endoplasmic Reticulum and Golgi Complex.md",
-    "Enviroment/Notes/Lecture 03.md",
     "Enviroment/Notes/Lecture 04.md",
     "My Notes/Untitled.md",
     "Enviroment/Lecture 3.md",
