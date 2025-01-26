@@ -15,9 +15,9 @@
               "state": {
                 "file": "Maths/Slides/Lecture-6.pdf",
                 "page": 1,
-                "left": -8,
+                "left": -6,
                 "top": 276,
-                "zoom": 1.9575013435859276
+                "zoom": 2.6230931415106045
               },
               "icon": "lucide-file-text",
               "title": "Lecture-6"
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "98cf92f2d2b985eb",
